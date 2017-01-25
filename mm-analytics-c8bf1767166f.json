@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mm-analytics-151611",
+  "private_key_id": "c8bf1767166f24c375e6845bcf4a557ae5c8e204",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDcvpK01ketrHNA\nom9GwGvTy+gx8EVbCky0UNrEpcbIuIvfzuIaOPeQyMY5nPsXEgkBHu8bq03raQxW\nKA44dbHSU7fLfCk/in804jwfqp9zc+qnXTu3khT89VDMHrmLweZVVaUaQjcAJ4Op\n2Ooumem5cOYPI0mXrFd+KU8ze56RAEodRivJWQwqDaaEuFYp1jNiA+XI07ApaAAg\na3iPB06s0niR8dAOHt1LZoiQf17SWHPLBm0q47QqXhVSAEo54hNcrMicUUAYbXQF\nH0xk2tFwANMc/nLGr8rpe9MXgqWKrkITZjqcIbEK5kwOJqjfCzNlSEJNZa4n37Vt\n0hYW4C/PAgMBAAECggEBAJsWWUQr+BgQvLiAZuWycw9Oh0fuowufZNyaodjfD5Yd\n8ke/tiLuOyDBrmLz44UF6sWa0isCY7AtEbnGUpdgORqoLs0L4n798vlYqR0mZvha\nTFZhrn7+ZziBsc53F60VAZqanXChbLrzCBHgkEdFY2wh4cBo7l9deertYvOsum7s\nEo3XQ5SogvC5n4NzVOx79WUH0vp/5TyJPFgJbEx+YRIy4HS7ENUHiIDrMGkN1AzB\nT39TNNFBL0PGexkS+aL7LGO+ObjgfQQW3uVYutYyC9bKxuZqd9TtQTAFiaWCdzhL\n/62qX2WVCEpwGG6Xv9reYLHWAErgVENWlKuP0UaMtiECgYEA++zkFK7h/n+0Ugxg\nlP2NbL68dO4g6pqelO8emycMFt76G1TaxKR1t4esWW8ldG9lbNmOUpO8NPfL+7h5\n60b71TB1qc8QBzi22ejYxHYycvmaUtGIQbcks3UPAQC7hMqndzulDORq59woKU08\n2Y82SYQKNcClEJHzfpSQHUXcPSsCgYEA4FCTdEmoLtFapAmS4zkLftIWLhmv5340\nXTJhUsxg0m7LHey4AY9ghtZ/zDq8hRIfgUHqv4n6MSGXmXUm0IP8a1M7NEpLtW9F\nQJ36mp6XGYmObx6CArd9n/oA0N8AFFjn5tVL/gOSJZdPp91mt0z+rpaAma1rPhc1\nOg+98/oxLe0CgYEA0a/yg/iwaJm46FYfCcQls+7qg9U1FrDN8B879V5B5MOBn8A4\nO1a8GJ/X57TokwqpfDl1Ceynydq7MXDyIdA6is9EEKwlpi0hnSz/SD8tbJ+vQOHg\nrPoYlTqI24fVjQj07Px7O8jf5s9Lqlz8mgVm5Tf/G5CWk7031BMqBQOB9nMCgYAl\naeseQ0bVAEBBCgPA+HvNXFcsu0YWs3sibEvFVqdzkd05EYmjYPm1o8NPGiDlhR9S\nHN99sRLU7QhvJRYjQ1BvykMetqGoEnYXkAIDlh4XuVTTfeAredVvQHCwZfGKc0XC\nv6LcLFZNBM7Zbdk7C5GTJzEt8Lnpck+Dbqq9LebUBQKBgQDeYcGYt+pnU9mcJE1V\nRM6bn1KJuoUBUL+5/KPk5doZHYqhhV6U8uaZLYOCg1qZikx0XBUKIxJHng2Bz7pV\nZRa6TsB5bHz2q5gjLNRVPCdlmX9m8psyq9jreRcAEo7ZGnDswIWKah159SE/VfJb\nG//fATMVBHx55FIHQ15mRqJ9MQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "media-analytics@mm-analytics-151611.iam.gserviceaccount.com",
+  "client_id": "106459323420244170669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/media-analytics%40mm-analytics-151611.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bhatu-project-151814",
+  "private_key_id": "0211b5d3f52c67c6d29efde705b1cd038cf359cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcXijncIJrDIGG\nJn3hsIZpNOlQKun2wT2wW09w2y+dYPJbDy+NfeqQfDB/+wlXCaZfQ5EtfaV/5Zw6\ntv8/JWdzTYOk7bTjI8SjjAv/ykH4OrKo+Y7f07AaGjK534czGJ4FaslSHeA6DN6F\nbfwELqLzyCc8PlbynZhBuqkmFG97vwIbRDYgEHWRpDizAei2kb7i2dyXrd9b9Chq\n28rka+P/w7ykFfCy7wB9x0otvKK/OQvgUPKww952KEQK/cRZgQBD6b4l0XNH0D+L\ngHKglWaeDd4wys/ri6mNGcsuDflddAtr0scA4IyMtAp2jEWYVgY0McvNMeefjNsO\nF5u9aPEFAgMBAAECggEADiwqoO99op47jyEl/7K0PAzjqLR7CDZzlOxxwtTa9/S1\ngrNZqAVloTrgWnkyW4UwYyoImors2S7Cfj/f2qVVPwojiGtTHdM8G2ayH7kBSbJo\nRxB3dqoFKBh/yIEOC/+LMwp+vMagcCKCeK2DTg28D0Rw6fDsiIjoJ+z3L9BiWmDN\nU/9Ui1Ly3dLBXp3sdwmikJXJUdTW9+0PQyrx+vKxK/jtXqQh8xrR+GO9y5vR5to4\nAcmTjn3LpGkSzYE0UNJOrHCPpS8TbZOf4XTLESlDUvjCorIPn0e2fenW3r7PHRAs\nXBEzYWitM62r2kXsOvSQYqTiaNHT7YTN7/ht8eswgQKBgQDNgYkXhujE6VRzESBI\nAzgRfWktXQx+gzqNfb7ipihnQ4nD5plU4no75iDkS7yQG52CvR9uRX/qLxjKKFzF\nRL2y1yKvw2Ik4eG7rV4LklA8t5KgUNmHwf8qsLszTmJ5JdAPBP/JvJ7jML/ZwLEm\n5StyVPSNPD9rGva6K6uLAZkkbQKBgQDCycyuFdC19+LbHz1hDAp7IomZWhW1HNFu\nGEmt5MOReszKYr6b2N695zh9s2KdeIE1hxyZnsCAKeVGOrhc8lgY5liM2A9uQyZO\njW0ykJVN63ojWZ7HgEo4oLVFnkLzuXs9jg/d85NDHcT5uF2C/ktcOVhDqhsja47p\nV1+SGQav+QKBgHWRVtG736zPY/3UXWh1Vv1Chwppwj0abEQIHU1jC5hQHh+R7ESQ\nsKdV95lD7uNuuQTTl4ipgA2E1iTJRJGiyvfmdjShjaNWCqMpArWSBg9GYj8PIfO1\nu3o700z92f4+8LG3BXLvUuLcv9UelPqQfvOQwLuQLSPkMCS/2QrUZj1dAoGAbYWr\nyUJI3NfpPQ1+pH9xsTSFK62EQRZYB1AutVDISZdDaJRG2jgBXcORdtQTIbls5Rz4\nDsQ9NpLX8Dn6CYDV2gJCTcb6PiQReN96Q5EZ8frx7MhqR4Axu09ZPTC0Mnfa/IxR\nDZnz9ivZ4hMwuQOkedFgeIM/yRWkAD15ZhseMHkCgYEAq2Bf8ISUCtpmpG/kE+XM\n70oaFOvOCXQK/V8nfHcrw/yiBnMC9LgDmEx2K10l6vWAkTTNrG58PZyP5YG5Rx1r\npkdkyBopnPzzP+DxOY3BAK8ESenP508NfogJI3oxrpJVLMWmcq6wBmvOcwSD+ACU\nLP6YiKW7d8y3eOXVfZmFM2I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mediamath@bhatu-project-151814.iam.gserviceaccount.com",
+  "client_id": "115947373982162956112",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mediamath%40bhatu-project-151814.iam.gserviceaccount.com"
+}

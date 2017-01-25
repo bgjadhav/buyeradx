@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adx-marketplace",
+  "private_key_id": "54594e1436a4b749a4f46afefcbae58b32b96173",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDrDvnoulvwY1i\n90T5VX34FbmI9W9SGMUSRh21P2LpzJOLyCVX0GhLlpgtbDhb5yX/lkemO95jVyn2\nYMKe5xGNV2xoreOVJ885icSyn6/YvPqgL/eu9M+qtw5iuJDZmO6il4AZVSOt8UBJ\nCDHgya+vMYKpk71RsltqDx2nXAgmqyN6ak14C2AHQkjUpajHOZcgR+L2jTRPMkuk\nNi68WcarRmwsyGEZkSeDZTdi2RxL7zEgWDrv43dsZrTtZsJ4mqa3mEz00+EKWIq3\n9ydvMHWPqW4trDOmCdAeWa9o2joFBOdpVJNJ6+VTtOOC6qqj61P7+Trs7txECt4B\ndWHEcGBFAgMBAAECggEAYl6NAydoebFxVeZ/e2WaXYT2cD8LBtfDAyvStZK3NFiP\neH9XHq18MTv1Jyi3sKQk+zfer1h7ta9VPjJoxR/fOBJSQtHgjtSjngZ/p1kWOzzO\nNofG2eLjH6zFg6XL1EjI9154nMOrmz+klNKU2LAsLUQTrxLB43dp84jD3KYsxtry\n258LVpjRG7elwkfd5sXwkujmPgb4IrzPcq5NsuejQDyGugPm3wnqbN8q24rLESe4\nuJgtslfZHJFKGA3jV3TxyOhaJWFYDmy5X8pHxrvvL5aoHe20EemkBpeUqP7q9wnz\n0T5xfqY8Dbz/lIiM6FoQVSL4cQqmvx0Y03kRW+RMQQKBgQDxiN1Re3sNJTPSAtxC\nyGd7SwK+cMfeYwnh8dMXioZwF20dO/vEtP0b99r+8NwUuYmssoeVGr9ZkFXTuvdi\nZkvTu2CEfDEMyFNmBIka5NuwVOc1c4v5CuCvbbULMEgMs9KSa1SfZ6TEBRuXE+BQ\nYpXrxfHVRwFvDUk5o0J5S/Am8QKBgQDPZDrO/DaBFGKSP5KePOOgo9lPBH2zxYCU\nCDOU36eTdvQpdiDmvrhpwjaT9JkUIPCaLMXOaVnD7QBk7YfFKj7G8VqziHO7P3Uq\ncl26O2e44vlMS5cqSMDygMRhVPVSvvEGmzmP1/4OF4Y2fKsIq57UKqiw7p+UgEkh\nBL43/WEWlQKBgQCb1w/dXAuoDqHh1eCh4kYKYfqSP5hl34bn1qy5mrJlLmhDnYkz\ngQdyfTg6l9OYN6Ih4ErkpI5jzmHiK9ckERbJtTNwJ+VJ9xMAVtrTlGg+3HkVnsjo\nVeFkrydJ4cwLDhdGS6Qc+bVwmE8V6kgn9YP/zQbc8mR1b6AYZUMlmh6IMQKBgAvS\nkuepyRGir9vWc+1BW1iU/pZaky/kWmgV75rVBSCK73BNo6KDzM96mtHkZ7WWCyE+\n3CfgKZXZtOQMBmle9yUwLRN++9n4zB0XV/B94nPPvJZ02LE4ZIduf8NsrG+DIwpV\nXvqsPXdgL+57POTJo8xEgklT0RUOGx0ewBlBAH/hAoGAZxyU4u7BoA9VaJBCvg5h\nzVhfpaDZvtSQMFOJJ/cEKTj3U7gUs3tO6qMJ/m60PKyops8xSfKnYrMOsShF7AyI\nEYmmmKNVts0mn3EsEBFw6cVGe2yyWIjWnWAABlZPyEfjgrHxYL65RHCSK72+B6cz\ndIME6A6T0HQ1zyxniiLBK5s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "adx-marketplace@adx-marketplace.iam.gserviceaccount.com",
+  "client_id": "107581210679375534640",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adx-marketplace%40adx-marketplace.iam.gserviceaccount.com"
+}

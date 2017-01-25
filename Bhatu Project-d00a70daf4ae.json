@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bhatu-project",
+  "private_key_id": "d00a70daf4aefc834ec463cee82273f459f9891c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsRZlMIZJuW/HT\n6UoHHdwQMMbKMv8YGir8dPRDS04kCU89l03bDz56X78gDN4pZi7+wVxe8zZdO2M8\nigNs5+QIqP1vkoosUhRRy65ntfFLB1/AEjVRjOm7zpiNiMGgDxmMqVOZU3anYZbW\nzjCwQJ5JmIrOxE1v8aRJ1W5E3qVg/tF7KsaO6Z4qSChTMrbFDaF1eOlyupoK3kaF\nYyqkkP6xSgmLaKsTqp/BEZCQEBLaxalFy+eEV+L+MQeCuwYO+41qz10YnbHi3Rwn\nu+TYi1WyU9JkN9C0jMQLYPuzPK9CwNC5SXSkqMwBO4vnBHjyC7AgMW5M9GjgwWRa\nPxS64Q0vAgMBAAECggEANrsB4fsEf4U8hhumxi4JXSdx8IlVG/4sS/qII90H3VEL\n2MB6Hq9wJQbIPNF5v2NUaOFbjFrumZ4lf/VE81OU0d+GbOz8cuo8xGPWa+KU30Zf\neDEQuXDwTRdsxgJ9qXFCp7qf8aVfm/vYJTRqqYROBYmuB9S72WXG0SI6nyyxE+g7\nie/PSebFnbG5LHhd/4AKztdbRAjL49i0qjgFpoy7yDDDTyc0zyIKZqbG903jHWUl\nOcQ57SyCr2tXDJiqP3pkoTvejhF40jaF9NQzYKYYfyEmyOlyAugr+v1RNnp/Z5Ws\nOs7eXJtJX42JUgNwbdccfoijnccSfhW7TKr+GU3imQKBgQDT1QcA4pGYNW8NLeWS\nBfM6imuSvjFP8ke0rrLVpxg4YuARsA1hAp8MEb13gkR47O7E1Gc7aLFFW4s2qbkF\nDwT9iw7kzu3Ds1UixVzgvQPxfI+cpVNknhb8r51WxcR+D8+Tta/J+M133RM0F5FU\n8mZcFERxnMtnm4c1WLHwY6uJbQKBgQDQMPYhGr4OMERY2nQNZj6h5mot1LZXG90Z\n9ekNPXntIr8n8dnCT2vH6B5C9IfDWS+xiqRnCl7f4hdOyfyL9Zcf7htJD/wzCwjW\nwaU1DpBXMuftxLFcYeCHGfGmk+PAsjjcUW2cUR82DoG4DRB6VScgHZ3zf5j/1Hbq\n5cj2G1TLiwKBgCPVL0AZE2PZ9hUWpHTVCNXoQFYsUg8h/rszqhC2GUTAhQK48ypr\n1RenkJM8t/R0r9cfzu6fwQzodV4jy6Ztafyxny1ZS6MFHOuq0xE5KAebeHeZB8hH\nbcAEvOrGvXxNlGF6JGhX6/nQrcTsD6t87Y+55fIKAeZeyrpdbIwrcALpAoGBALry\nDEHjwp/5BZaH60gQ9NLqlZO7+1QzKBJkuDX0ayTeW6phyPlr2cuzimDzNWncDzCs\n3z3LmTAO1IEibU28ZUz9wbCU0xF+qhw13MTM5B35Dzx5sA3Vsgl+6Xh8OjpRjy9/\nSx7f1Vf0JNWBnbdL+YskLS52+ItZXMNHPXKJTlZLAoGAFDl86GS+AfrNE2GZCoEX\nn8Or0HB6NsZ/Dh+lDb6+/38nFAMRI63P/mmMlVlrtT27QJ1qFIYxfVWDTqXajV4s\ngXtkT4h93/LgY7ZahdRSgoxaGlOBSfAeWrSrlE53DDovhb9Gb02OiRJKG6ugN6tg\njLcpgRvN5RHiufVIE99b41c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bhaturestapi@bhatu-project.iam.gserviceaccount.com",
+  "client_id": "110505191185947783044",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bhaturestapi%40bhatu-project.iam.gserviceaccount.com"
+}
